@@ -1,0 +1,20 @@
+{
+  "name": "countsumoftworepresentations2",
+  "version": "1.0.0",
+  "description": "Given integers `n`, `l` and `r`, find the number of ways to represent `n` as a sum of two integers `A` and `B` such that `l ≤ A ≤ B ≤ r`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/countSumofTwoRepresentations2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/countSumofTwoRepresentations2/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/countSumofTwoRepresentations2#readme"
+}
